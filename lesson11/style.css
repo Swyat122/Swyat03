@@ -1,0 +1,101 @@
+.A{
+    background-color: aqua;
+    height: 300px;
+    width: 400px;
+}
+.g1{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+}
+.g2{
+    background-color: red;
+    height: 100px;
+    width: 400px;
+}
+.g3{
+    background-color: yellow;
+    height: 100px;
+    width: 400px;
+}
+.B{
+    background-color: springgreen;
+    height: 300px;
+    width: 450px;
+    margin-top: 30px;
+}
+.B1{
+    background-color: steelblue;
+    height: 100px;
+    width: 450px;
+    display: flex;
+}
+.j1{
+    background-color: black;
+    height: 100px;
+    width: 150px;
+}
+.j2{
+    background-color: yellow;
+    height: 100px;
+    width: 150px;
+
+}
+.j3{
+    background-color: red;
+    height: 100px;
+    width: 150px;
+} 
+.B2{
+    background-color:orange;
+    height: 100px;
+    width: 450px;
+}
+.D{
+    background-color: rgb(235, 15, 15);
+    width: 450px;
+    height: 100px;
+    display: flex;
+
+}
+.h1{
+    background-color: black;
+    width: 225px;
+    height: 100px;
+}
+.h2{
+    background-color: yellow;
+    width: 225px;
+    height: 100px;
+}
+.C{
+    background-color: black;
+    width: 450px;
+    height: 300px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around; 
+    
+
+}
+.f1{
+    background-color: yellow;
+    width: 80px;
+    height: 90px;
+    margin: auto;
+    
+
+}
+.f2{
+    background-color: green;
+    width: 80px;
+    height: 90px;
+    margin:auto ;
+}
+.f3{
+    background-color: indigo;
+    width: 80px;
+    height: 90px;
+    margin: auto;
+}
+
